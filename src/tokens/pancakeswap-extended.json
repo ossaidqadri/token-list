@@ -3422,5 +3422,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  },
+  {
+    "name": "KASH",
+    "symbol": "KASH",
+    "address": "0x70042ddE5cF55E866049026eB3d3Ca86eA77f3bb",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x70042ddE5cF55E866049026eB3d3Ca86eA77f3bb.png"
   }
 ]
